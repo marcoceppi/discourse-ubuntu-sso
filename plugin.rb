@@ -1,4 +1,4 @@
-# name: discourse-ubuntu
+# name: discourse-ubuntu-sso
 # about: Ubuntu SSO support for Discourse
 # version: 0.2
 # authors: Sam Saffron, Marco Ceppi
